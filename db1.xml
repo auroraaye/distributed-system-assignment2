@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<data>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text>
+            Dogs respond when you call their name (unlike cats, who just ignore you)
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+    </topic>
+    <topic name="people">
+        <note name="student">
+            <text>jfhadsfk</text>
+            <timestamp>2024-03-11 00:17:29</timestamp>
+        </note>
+        <note name="teacher">
+            <text>gvefgf</text>
+            <timestamp>2024-03-11 00:18:32</timestamp>
+        </note>
+        <note name="police">
+            <text>Wikipedia article: Police
+            Data information: The police are a constituted body of persons empowered by a state, with the aim to enforce the law, protect public order, and the public itself. This commonly includes ensuring the safety, health, and possessions of citizens, and to prevent crime and civil disorder. Their lawful powers encompass arrest and the use of force legitimized by the state via the monopoly on violence. The term is most commonly associated with the police forces of a sovereign state that are authorized to exercise the police power of that state within a defined legal or territorial area of responsibility. Police forces are often defined as being separate from the military and other organizations involved in the defense of the state against foreign aggressors; however, gendarmerie are military units charged with civil policing. Police forces are usually public sector services, funded through taxes.
+            URL: https://en.wikipedia.org/wiki/Police</text>
+            <timestamp>2024-03-11 00:20:39</timestamp>
+        </note>
+    </topic>
+    <topic name="color">
+        <note name="black">
+            <text>fjso</text>
+            <timestamp>2024-03-11 00:18:05</timestamp>
+        </note>
+        <note name="white">
+            <text>Wikipedia article: White
+            Data information: White is the lightest color and is achromatic. It is the color of objects such as snow, chalk, and milk, and is the opposite of black. White objects fully reflect and scatter all the visible wavelengths of light. White on television and computer screens is created by a mixture of red, blue, and green light. The color white can be given with white pigments, especially titanium dioxide.
+            URL: https://en.wikipedia.org/wiki/White</text>
+            <timestamp>2024-03-11 00:19:29</timestamp>
+        </note>
+    </topic>
+    <topic name="food">
+        <note name="rice">
+            <text>rhfoes</text>
+            <timestamp>2024-03-11 00:18:55</timestamp>
+        </note>
+    </topic>
+</data>
